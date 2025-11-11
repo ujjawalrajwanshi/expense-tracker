@@ -32,5 +32,3 @@ Entertainment: ₹1,520
 - Data aggregation
 - Dictionary operations for grouping
 - Date/time handling
-```
-

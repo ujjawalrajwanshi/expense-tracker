@@ -34,6 +34,3 @@ Entertainment: ₹1,520
 - Date/time handling
 ```
 
-```
-# If you add matplotlib for visualization
-matplotlib==3.8.0
